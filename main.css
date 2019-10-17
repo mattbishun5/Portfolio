@@ -1,0 +1,78 @@
+.header{
+  
+  background-color: maroon;
+  text-align: center;
+  color: white;
+  padding-bottom: 10px;
+  padding-top: 10px;
+ 
+}
+
+.header h1{
+
+text-decoration: underline;
+
+}
+
+.projects {
+  
+  background-color: teal;
+  padding-top: 10px;
+  padding-bottom: 70px;
+  padding-left: 10px;
+  color: white;
+  
+}
+
+.projects h2 {
+
+  text-align: center;
+  text-decoration: underline;
+  color: white;
+
+}
+
+.socials h2{
+
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+}
+
+
+.about-me {
+  
+  font-size: 20px;
+  
+}
+
+
+.logo{
+
+float: right;
+padding-top: -80px;
+
+}
+
+
+.title{
+  
+  font-weight: bold;
+  color: white;
+  text-decoration: underline;
+}
+
+.socials {
+  
+  background-color: maroon;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  color: white;
+  
+}
+
+body{
+  
+  font-family: Helvetica;
+}
